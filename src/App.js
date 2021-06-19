@@ -1,4 +1,5 @@
 import './App.css';
+
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -6,7 +7,7 @@ export default function App() {
     <div className="App">
     <div className="container">
       <header className="App-header">
-      Find your word 
+      Find your word 🕮
       </header>
       <main>
       <Dictionary />
