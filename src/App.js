@@ -3,8 +3,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
-      hello
+      <header className="App-header">
+      SheCodes
+      <a href="#"className=" btn btn-primary">
+      Hello
+      </a>
+      </header>
     </div>
   );
 }
