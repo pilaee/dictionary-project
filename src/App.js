@@ -1,5 +1,4 @@
-import './App.css';
-
+import "./App.css";
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -10,7 +9,7 @@ export default function App() {
       Find your word 🕮
       </header>
       <main>
-      <Dictionary />
+      <Dictionary defaultKeyword="wine"/>
       </main>
       <footer className="App-footer">
       <small> Coded by Pollina Iliev</small>
